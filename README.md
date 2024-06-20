@@ -10,11 +10,11 @@ Node.js
 Express.js     
 MongoDB       
 HTML and CSS for Custom Stylings     
-Multer for Image Upload
-Cloudinary for Image Storage
-Passport.js for Authentication
-Bootstrap for a Sleek and Responsive design
-Error Handling for a Seamless User Experience
+Multer for Image Upload      
+Cloudinary for Image Storage      
+Passport.js for Authentication      
+Bootstrap for a Sleek and Responsive design      
+Error Handling for a Seamless User Experience      
 Other Awesome Libraries and Tools
 
 Key Features:
