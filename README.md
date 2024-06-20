@@ -10,7 +10,7 @@ Node.js, Express.js, MongoDB, HTML and CSS for Custom Stylings, Multer for Image
 
 Key Features:
 
-Listings: Create, Edit, and Delete your listings.
+Listings: Create, Edit, and Delete your listings.    
 Reviews: Leave reviews for your favourite destinations.
 
 User Authentication: Secure Sign-up, Login, and Logout functionality.
