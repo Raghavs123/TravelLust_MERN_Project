@@ -6,7 +6,7 @@ It helps out people to find their ideal accommodation through reviews & ratings 
 
 Technologies Used:
 
-Node.js 
+Node.js      
 Express.js 
 MongoDB 
 HTML and CSS for Custom Stylings 
