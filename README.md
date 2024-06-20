@@ -1,4 +1,5 @@
-TravelLust - A Full Stack MERN Project
+TravelLust - A Travel Listing Website For All Your Stay Needs        
+"Worry about Stays, We are Here..."
 
 Description :        
 TravelLust is a Travel Listing Full Stack Project using MVC Framework.       
