@@ -1,10 +1,11 @@
 TravelLust - A Full Stack MERN Project
 
+Description :
 TravelLust is a Travel Listing Full Stack Project using MVC Framework. It is an online listing website for short and
 long-term homestays, housing rentals and experiences.
 It helps out people to find their ideal accommodation through reviews & ratings for different listings.
 
-Technologies Used:
+Technologies Used in TravelLust :
 
 Node.js      
 Express.js     
@@ -17,7 +18,7 @@ Bootstrap for a Sleek and Responsive design
 Error Handling for a Seamless User Experience      
 Other Awesome Libraries and Tools
 
-Key Features:
+Key Features of TravelLust :
 
 Listings: Create, Edit, and Delete your listings.    
 Reviews: Leave reviews for your favourite destinations.    
