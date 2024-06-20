@@ -24,5 +24,7 @@ Key Features of TravelLust :
 Listings: Create, Edit, and Delete your listings.    
 Reviews: Leave reviews for your favourite destinations.    
 User Authentication: Secure Sign-up, Login, and Logout functionality.
-
+        
+Run this project using app.js file using command node app.js or nodemon app.js
+    
 Explore TravelLust, and let the journey begin! 
